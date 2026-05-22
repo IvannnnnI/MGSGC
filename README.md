@@ -43,7 +43,9 @@ pip install networkx==2.5 numpy==1.23.5 scipy==1.10.0 scikit-learn==1.2.1 netlsd
 Run Experiments
 Execute the main script to start the multi-granularity graph coarsening and downstream classification evaluation:
 
-python main.py 
+1. unzip s-gwl.zip
+
+2. python main.py 
 
 
 ---
